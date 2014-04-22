@@ -1,0 +1,33 @@
+{
+  "name": "yoda-said",
+  "version": "0.0.0",
+  "description": "Yoda quotes on CLI a trribute to Master Yoda!",
+  "license": "MIT",
+  "repository": "hemanth/node-yoda-said",
+  "bin": {
+    "latest-version": "cli.js"
+  },
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "http://h3manth.com"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "yoda",
+    "quote",
+    "star wars"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
