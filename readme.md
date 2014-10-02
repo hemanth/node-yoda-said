@@ -2,7 +2,7 @@
 
 > Yoda quotes on CLI a trribute to Master Yoda!
 
-![](http://img.pandawhale.com/post-23743-Yoda-reaction-gif-Do-Or-do-not-QXzO.gif)
+![](./yoda.gif)
 
 ## Install
 
