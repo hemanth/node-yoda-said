@@ -15,7 +15,7 @@ $ npm install --save yoda-said
 
 ```js
 var yodaSaid = require('yoda-said');
-console.log(yodsSaid());
+console.log(yodaSaid());
 ```
 
 
