@@ -1,6 +1,6 @@
 {
   "name": "yoda-said",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yoda quotes on CLI a trribute to Master Yoda!",
   "license": "MIT",
   "repository": "hemanth/node-yoda-said",
