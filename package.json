@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": "hemanth/node-yoda-said",
   "bin": {
-    "latest-version": "cli.js"
+    "yoda-said": "cli.js"
   },
   "author": {
     "name": "Hemanth.HM",
