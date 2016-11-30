@@ -28,6 +28,6 @@
     "star wars"
   ],
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "2.3.4"
   }
 }
