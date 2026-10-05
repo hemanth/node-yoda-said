@@ -1,6 +1,6 @@
 {
   "name": "yoda-said",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Yoda quotes on CLI a trribute to Master Yoda!",
   "license": "MIT",
   "repository": "hemanth/node-yoda-said",
@@ -16,7 +16,7 @@
     "node": ">= 4"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha test.js"
   },
   "files": [
     "index.js",
@@ -28,6 +28,6 @@
     "star wars"
   ],
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "^11.7.0"
   }
 }
